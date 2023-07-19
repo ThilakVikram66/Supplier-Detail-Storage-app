@@ -1,0 +1,7 @@
+[
+    {
+        parent_asin = "",
+        Current_asin = "",
+        rank = ""
+    }
+]
